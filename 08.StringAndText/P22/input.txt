@@ -1,0 +1,5 @@
+dog
+The quick brown fox jumps over the lazy dog
+The quick brown fox jumps over the lazy dog
+The quick brown fox jumps over the lazy dog
+In Word 2007, the rand() function adds information about using specific Word features in order to create a more realistic document for testing. However, if you wish to use the "Quick Brown Fox" pangram in Word 2007, you can
