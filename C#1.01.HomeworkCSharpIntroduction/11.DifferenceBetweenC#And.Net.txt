@@ -1,0 +1,3 @@
+C# is a language for writing software developed by Microsoft.
+.Net is a software framework on witch code writen in some
+ language, like C# and others, is run under the Common Language Runtime (CLR)
